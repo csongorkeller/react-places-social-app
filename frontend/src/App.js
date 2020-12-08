@@ -18,7 +18,7 @@ const App = () => {
         <Route path="/places/new" exact={true}>
           <NewPlace />
         </Route>
-        <Redirect to path="/" />
+        <Redirect to="/" />
       </Switch>
     </Router>
   );
