@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-places-social-app/precache-manifest.ca3a158de2cc420ca1a19c7f2617666b.js"
+  "/react-places-social-app/precache-manifest.438a04741e6af17dd1fd2c7d8b7f56b1.js"
 );
 
 self.addEventListener('message', (event) => {
