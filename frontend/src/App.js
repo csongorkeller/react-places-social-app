@@ -25,7 +25,7 @@ const App = () => {
           <Route path="/places/new" exact={true}>
             <NewPlace />
           </Route>
-          <Redirect to="/" />
+          <Redirect to="/react-places-social-app" />
         </Switch>
       </main>
     </Router>
