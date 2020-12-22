@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cfdc57f4043adeb4545818989ea84e6c",
+    "revision": "e87fe1b9cdeb59806002c241eb9206f5",
     "url": "/react-places-social-app/index.html"
   },
   {
-    "revision": "9aef47971d91038f1493",
+    "revision": "4a22d0172f8d245b8a6c",
     "url": "/react-places-social-app/static/css/main.0942250e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-places-social-app/static/js/2.b9af8fc2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9aef47971d91038f1493",
-    "url": "/react-places-social-app/static/js/main.a63fd06e.chunk.js"
+    "revision": "4a22d0172f8d245b8a6c",
+    "url": "/react-places-social-app/static/js/main.e903af54.chunk.js"
   },
   {
     "revision": "b960376a13dda5fea2db",
