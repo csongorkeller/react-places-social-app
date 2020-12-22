@@ -16,7 +16,7 @@ const App = () => {
       <MainNavigation />
       <main>
         <Switch>
-          <Route path="/" exact={true}>
+          <Route path="/react-places-social-app" exact={true}>
             <Users />
           </Route>
           <Route path="/:userId/places" exact>
