@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-places-social-app/static/css/main.0942250e.chunk.css",
+    "main.js": "/react-places-social-app/static/js/main.a63fd06e.chunk.js",
+    "main.js.map": "/react-places-social-app/static/js/main.a63fd06e.chunk.js.map",
+    "runtime-main.js": "/react-places-social-app/static/js/runtime-main.fe0f582a.js",
+    "runtime-main.js.map": "/react-places-social-app/static/js/runtime-main.fe0f582a.js.map",
+    "static/js/2.b9af8fc2.chunk.js": "/react-places-social-app/static/js/2.b9af8fc2.chunk.js",
+    "static/js/2.b9af8fc2.chunk.js.map": "/react-places-social-app/static/js/2.b9af8fc2.chunk.js.map",
+    "index.html": "/react-places-social-app/index.html",
+    "precache-manifest.b3bf69cedd7e3529daa0cef77c7cbed2.js": "/react-places-social-app/precache-manifest.b3bf69cedd7e3529daa0cef77c7cbed2.js",
+    "service-worker.js": "/react-places-social-app/service-worker.js",
+    "static/css/main.0942250e.chunk.css.map": "/react-places-social-app/static/css/main.0942250e.chunk.css.map",
+    "static/js/2.b9af8fc2.chunk.js.LICENSE.txt": "/react-places-social-app/static/js/2.b9af8fc2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe0f582a.js",
+    "static/js/2.b9af8fc2.chunk.js",
+    "static/css/main.0942250e.chunk.css",
+    "static/js/main.a63fd06e.chunk.js"
+  ]
+}
