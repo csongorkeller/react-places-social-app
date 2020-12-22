@@ -16,16 +16,16 @@ const App = () => {
       <MainNavigation />
       <main>
         <Switch>
-          <Route path="/react-places-social-app" exact={true}>
+          <Route path="/" exact={true}>
             <Users />
           </Route>
-          <Route path="/:userId/places" exact>
+          <Route path="/:userId/places">
             <UserPlaces />
           </Route>
           <Route path="/places/new" exact={true}>
             <NewPlace />
           </Route>
-          <Redirect to="/react-places-social-app" />
+          <Redirect to="/" />
         </Switch>
       </main>
     </Router>
